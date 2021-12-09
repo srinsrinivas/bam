@@ -1,0 +1,260 @@
+.log {
+  background-color: #085da6;
+  color: white;
+}
+.log0 {
+  font-size: 11px;
+}
+.log1 {
+  font-size: x-small;
+}
+.log2 {
+  font-size: 10px;
+  color: gray;
+}
+.inputbox input {
+  border: none;
+  border-bottom: 1px solid gray;
+}
+.img {
+  float: left;
+  margin-left: 0px;
+}
+.box {
+  margin-top: -620px;
+  padding-left: 230px;
+  margin-left: 230px;
+}
+.terms {
+  margin-left: -60px;
+  padding-left: -60px;
+}
+
+.bamlogo {
+  margin-left: 10px;
+  position: fixed;
+  top: 10px;
+}
+
+.memberblock {
+  position: fixed;
+}
+.hrline {
+  margin-top: 75px;
+}
+.hrline01 {
+  margin-left: 250px;
+  color: "#9E9FA5";
+  border-width: 2px;
+  margin-right: 0px;
+  margin-top: 20px;
+  opacity: 0.5;
+}
+.bammessagehead {
+  position: fixed;
+  margin-top: -20px;
+}
+.membersearchicon {
+  margin-left: 630px;
+  margin-top: 95px;
+}
+.membermessage {
+  font-size: 13px;
+  margin-top: -12px;
+}
+.memsearch {
+  margin-left: -470px;
+  margin-top: 0px;
+}
+.memsearch1 {
+  margin-left: 300px;
+  margin-top: 27px;
+}
+.division {
+  margin-left: 400px;
+  margin-bottom: 2px;
+}
+.groupn input {
+  margin-right: 18px;
+  border-radius: 5px;
+}
+.groupnumber {
+  margin-bottom: -1px;
+}
+.flexi {
+  display: flex;
+  margin-left: 600px;
+  margin-top: 30px;
+}
+.memberid input {
+  border-radius: 5px;
+}
+.memberidtext {
+  margin-bottom: -1px;
+}
+.memberhrline {
+  margin-left: 610px;
+  margin-right: 240px;
+  margin-top: 40px;
+}
+.memberhrline1 {
+  margin-left: 840px;
+  margin-right: 20px;
+  margin-top: -25px;
+}
+.or {
+  margin-left: 810px;
+  margin-top: -20px;
+}
+.usern {
+  margin-left: 680px;
+  margin-top: 20px;
+}
+.select {
+  margin-top: 0px;
+  margin-left: 400px;
+  width: 225px;
+}
+.bammessage {
+  margin-left: 720px;
+  margin-top: -76px;
+}
+.message {
+  font-size: smaller;
+  margin-top: -12px;
+}
+.paramessage {
+  margin-top: -12px;
+}
+.accountname {
+  margin-top: -60px;
+  margin-left: 1150px;
+}
+.userprofilephoto {
+  margin-left: 1270px;
+  margin-top: -38px;
+}
+
+div.sideNavMenu {
+  background-color: #041438;
+  color: lightslategray;
+  padding-bottom: 160px;
+  padding-left: 30px;
+  position: fixed;
+  left: 0px;
+  top: 75px;
+  width: 230px;
+}
+.sideNavMenuItem {
+  padding-top: -0.15px;
+}
+.msear {
+  color: white;
+  text-decoration: underline;
+}
+.searchresults {
+  margin-top: 180px;
+}
+.container {
+  width: 100%;
+}
+.federal {
+  margin-left: 640px;
+  font-size: 12.5px;
+  margin-top: 30px;
+}
+.dependents {
+  margin-left: 850px;
+  font-size: 12.5px;
+  margin-top: -15px;
+}
+.searchbu {
+  margin-left: 750px;
+  margin-top: 50px;
+  padding: 10px 40px 10px 40px;
+  background-color: #0c70a2;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  border: 0px;
+  border-radius: 40px;
+}
+.searchbu1 {
+  margin-left: 750px;
+  margin-top: 50px;
+  padding: 10px 40px 10px 40px;
+  background-color: lightgrey;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  border: 0px;
+  border-radius: 40px;
+}
+.errormessage {
+  font-size: small;
+  color: red;
+  margin-top: 0px;
+  margin-bottom: -18px;
+}
+button[disabled] {
+  background-color: #cccccc;
+  color: #666666;
+}
+.searchfilter {
+  margin-left: 300px;
+}
+.filr {
+  display: flex;
+}
+.MID {
+  margin-left: 300px;
+  margin-top: 20px;
+  margin-bottom: -120px;
+}
+.hrrline {
+  margin-left: 260px;
+  margin-right: -500px;
+  margin-top: 75px;
+}
+.memberinfohead {
+  margin-top: 15px;
+  font-size: 20px;
+  margin-left: 300px;
+}
+.pipe {
+  margin-left: 295px;
+  font-size: 10px;
+  margin-top: -15px;
+}
+.secondblock {
+  margin-left: 295px;
+  font-size: 15px;
+  margin-top: 0px;
+}
+.secondblockright {
+  margin-left: 1000px;
+  font-size: 15px;
+  margin-top: -80px;
+}
+.thirdblock {
+  margin-left: 300px;
+  font-size: 15px;
+  margin-top: -18px;
+}
+.thirdblockright {
+  margin-left: 900px;
+  font-size: 15px;
+  margin-top: -142px;
+}
+.fourthblockright {
+  margin-left: 300px;
+  font-size: 15px;
+  margin-top: -18px;
+}
+.scroll {
+  overflow: scroll;
+  width: 100%;
+  height: 500px;
+}
